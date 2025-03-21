@@ -39,7 +39,7 @@ Install
 Via Composer
 
 ```
-$ composer require pandi-id/php-epp-id
+$ composer require arislanhaikal/php-epp-id
 ```
 
 
